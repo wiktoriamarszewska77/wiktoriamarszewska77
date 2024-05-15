@@ -26,7 +26,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
 </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/> 
+    <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework-1024x576.png" alt="Flask" width="40" height="40"/> 
 </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="40" height="40"/> 
@@ -44,7 +44,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" alt="Sentry" width="40" height="40"/> 
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite3" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite3" width="40" height="40"/> 
 </a>
 <a href="https://www.postgresql.org.pl/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> 
@@ -61,6 +61,19 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/> 
 </a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://data.epa.ie/wp-content/uploads/2017/10/rest-api.png" alt="RestAPI" width="40" height="40"/> 
+</a>
+<a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.stackshare.io/service/1075/celery.png" alt="Celery" width="40" height="40"/> 
+</a>
+<a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer"> 
+    <img src="https://docs.pytest.org/en/8.2.x/_static/pytest_logo_curves.svg" alt="Pytest" width="40" height="40"/> 
+</a>
+<a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noreferrer"> 
+    <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2023/08/Unittest-Framework-250x296.png" alt="Unitest" width="40" height="40"/> 
+</a>
+
 
 
 <h2 align="left">Github Stats:</h2>
